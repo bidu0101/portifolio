@@ -137,7 +137,7 @@ const Skills = () => {
               className="glass-effect rounded-xl p-6 group"
             >
               <div className="flex items-center mb-4">
-                <span className="text-3xl mr-4">💻</span>
+                <span className="text-3xl mr-4"></span>
                 <h4 className="text-xl font-semibold text-neon-purple">Desenvolvimento</h4>
               </div>
               <p className="text-gray-400">
@@ -152,7 +152,7 @@ const Skills = () => {
               className="glass-effect rounded-xl p-6 group"
             >
               <div className="flex items-center mb-4">
-                <span className="text-3xl mr-4">📈</span>
+                <span className="text-3xl mr-4"></span>
                 <h4 className="text-xl font-semibold text-neon-blue">Marketing Digital</h4>
               </div>
               <p className="text-gray-400">
