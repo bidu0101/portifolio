@@ -35,7 +35,7 @@ const Contact = () => {
     {
       name: 'GitHub',
       icon: '🐙',
-      url: 'https://github.com/matheus',
+      url: 'https://github.com/matheusvsp',
       color: 'from-gray-400 to-gray-600'
     },
     {
