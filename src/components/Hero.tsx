@@ -76,7 +76,7 @@ const Hero = () => {
               className="mb-8"
             >
               <h2 className="text-2xl md:text-3xl lg:text-4xl font-semibold text-white mb-2">
-                Desenvolvedor Full Stack
+                Desenvolvedor
               </h2>
               <p className="text-lg md:text-xl text-gray-400">
                 Estudante de Análise e Desenvolvimento de Sistemas

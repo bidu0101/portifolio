@@ -14,27 +14,15 @@ const Services = () => {
   // Array de serviços oferecidos
   const services = [
     {
-      title: 'Desenvolvimento Web',
+      title: 'Desenvolvimento Web + Integrações API e CRM ',
       description: 'Criação de websites e aplicações web modernas, responsivas e otimizadas para performance.',
-      features: ['React & TypeScript', 'Design Responsivo', 'Otimização SEO', 'Performance'],
+      features: ['React e TypeScript', 'Design Responsivo', 'Otimização','Integração de sistemas', 'Performance','APIs RESTs'],
       gradient: 'from-neon-purple to-neon-blue'
     },
     {
-      title: 'Integrações API e CRM',
-      description: 'Integração de sistemas, APIs e CRMs para automatizar processos e melhorar a eficiência.',
-      features: ['APIs RESTful', 'Integração CRM', 'Webhook Setup', 'Data Sync'],
-      gradient: 'from-neon-blue to-neon-cyan'
-    },
-    {
-      title: 'Automações Empresariais',
-      description: 'Desenvolvimento de fluxos de automação para empresas físicas e digitais.',
-      features: ['Fluxos Automatizados', 'Pré-atendimento', 'Chatbots', 'Workflows'],
-      gradient: 'from-neon-cyan to-neon-green'
-    },
-    {
-      title: 'Estratégias de Vendas e Marketing Digital',
+      title: 'Automações Empresariais e Marketing Digital',
       description: 'Planejamento e execução de estratégias de marketing digital e vendas online.',
-      features: ['Tráfego Pago', 'Lead Generation', 'Funis de Vendas', 'Analytics'],
+      features: ['Tráfego Pago', 'Geração de Leads', 'Funis de Vendas','Fluxos Automatizados',''],
       gradient: 'from-neon-green to-neon-purple'
     }
   ];

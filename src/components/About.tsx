@@ -59,9 +59,9 @@ const About = () => {
               transition={{ duration: 0.6, delay: 0.6 }}
               className="text-gray-300 leading-relaxed text-lg"
             >
-              Me considero <span className="text-neon-purple font-semibold">Full Stack</span> pelas minhas 
+              Me considero <span className="text-neon-purple font-semibold">Desenvolvedor</span> pelas minhas 
               experiências e serviços. Atualmente estudo muito{' '}
-              <span className="text-neon-blue font-semibold">JavaScript, TypeScript, React, Bootstrap, MySQL, Supabase e GitHub</span>.
+              <span className="text-neon-blue font-semibold">JavaScript, TypeScript, NodeJs, MySQL, Supabase, MongoDB, Metodos Ageis </span>sempre gostei mais do beck-end e estou voltando meu estudo para esse foco, e conseguir me efetivar na área.
             </motion.p>
 
             {/* Parágrafo 3 - Marketing Digital */}
@@ -73,9 +73,8 @@ const About = () => {
             >
               Além disso, possuo habilidades voltadas para{' '}
               <span className="text-neon-cyan font-semibold">Marketing Digital</span>, como{' '}
-              <span className="text-neon-purple font-semibold">Integrações de API, CRM, automações de pré-atendimento, 
-              fluxos de automação</span> para empresas físicas e digitais, captação de leads, tráfego pago e orgânico, 
-              organização de estruturas e estratégias de vendas e lançamentos.
+              <span className="text-neon-purple font-semibold"> CRM, automações de pré-atendimento, 
+              fluxos de automação</span> para empresas físicas e digitais, <span>ão de leads, tráfego pago e orgânico, organização de estruturas e estratégias de vendas e lançamentos.</span>
             </motion.p>
 
             {/* Parágrafo 4 - Objetivo profissional */}

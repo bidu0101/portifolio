@@ -13,17 +13,16 @@ const Skills = () => {
 
   // Array de habilidades com cores personalizadas
   const skills = [
-    { name: 'JavaScript', icon: '🟨', color: 'from-yellow-400 to-yellow-600' },
-    { name: 'TypeScript', icon: '🔷', color: 'from-blue-400 to-blue-600' },
+    { name: 'JavaScript', icon: '｡🇯‌🇸‌', color: 'from-yellow-400 to-yellow-600' },
+    { name: 'TypeScript', icon: '🇹🇸', color: 'from-blue-400 to-blue-600' },
     { name: 'React', icon: '⚛️', color: 'from-cyan-400 to-blue-500' },
     { name: 'Bootstrap', icon: '🅱️', color: 'from-purple-400 to-purple-600' },
     { name: 'MySQL', icon: '🗄️', color: 'from-orange-400 to-red-500' },
     { name: 'Supabase', icon: '🚀', color: 'from-green-400 to-emerald-500' },
     { name: 'GitHub', icon: '🐙', color: 'from-gray-400 to-gray-600' },
-    { name: 'API', icon: '🔌', color: 'from-indigo-400 to-purple-500' },
-    { name: 'CRM', icon: '📊', color: 'from-pink-400 to-rose-500' },
+    { name: 'APIs', icon: '🔌', color: 'from-indigo-400 to-purple-500' },
     { name: 'Automação', icon: '🤖', color: 'from-emerald-400 to-teal-500' },
-    { name: 'Marketing Digital', icon: '📱', color: 'from-violet-400 to-purple-500' }
+    { name: 'MongoDB', icon: '🍃', color: 'from-violet-400 to-purple-500' }
   ];
 
   return (
@@ -130,7 +129,7 @@ const Skills = () => {
             Áreas de <span className="text-neon-cyan">Atuação</span>
           </h3>
           
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+          <div className="flex justify-center max-w-4xl mx-auto">
             {/* Desenvolvimento */}
             <motion.div
               whileHover={{ scale: 1.05 }}
@@ -141,23 +140,11 @@ const Skills = () => {
                 <h4 className="text-xl font-semibold text-neon-purple">Desenvolvimento</h4>
               </div>
               <p className="text-gray-400">
-                Front-end e Back-end com tecnologias modernas, 
-                criando soluções completas e escaláveis.
-              </p>
-            </motion.div>
+                Meu foco principal é no desenvolvimento Back-end, a estrutura que faz os sistemas funcionarem de verdade. Construo soluções robustas e escaláveis usando tecnologias modernas para entregar resultados eficazes.
 
-            {/* Marketing Digital */}
-            <motion.div
-              whileHover={{ scale: 1.05 }}
-              className="glass-effect rounded-xl p-6 group"
-            >
-              <div className="flex items-center mb-4">
-                <span className="text-3xl mr-4"></span>
-                <h4 className="text-xl font-semibold text-neon-blue">Marketing Digital</h4>
-              </div>
-              <p className="text-gray-400">
-                Estratégias de vendas, automações, 
-                integração de CRM e captação de leads.
+Além disso, atuo no Front-end, desenvolvendo interfaces que complementam a experiência do usuário. Minha abordagem de trabalho é fortemente baseada em Métodos Ágeis, como Scrum, garantindo entregas eficientes e adaptáveis.
+
+Estou sempre buscando aprimorar meu conhecimento para contribuir com soluções digitais completas e de alta qualidade, atendendo às necessidades de cada projeto.
               </p>
             </motion.div>
           </div>

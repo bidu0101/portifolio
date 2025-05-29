@@ -80,11 +80,11 @@ const Contact = () => {
         >
           <h2 className="text-4xl md:text-5xl font-bold mb-4">
             <span className="bg-gradient-to-r from-neon-purple to-neon-cyan bg-clip-text text-transparent">
-              Vamos Conversar?
+              Contato
             </span>
           </h2>
           <p className="text-gray-400 text-lg max-w-2xl mx-auto">
-            Pronto para transformar suas ideias em realidade? Entre em contato comigo!
+            Ficou com alguma dúvida? Entre em contato comigo!
           </p>
         </motion.div>
 
